@@ -3,7 +3,8 @@
 
 ## Install
 
-```
+To use createCountry, install package countryinfo firstly
+```pip install countryinfo
 ```
 
 ## Usage
